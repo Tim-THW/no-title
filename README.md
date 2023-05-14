@@ -1,1 +1,1 @@
- https://tim_thw.github.io/no-title/
+ https://tim-thw.github.io/no-title/
